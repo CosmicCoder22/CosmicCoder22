@@ -7,7 +7,7 @@ Hey there! I'm a passionate **front-end developer** dedicated to crafting seamle
 ---
 
 ## 🌐 Let's Connect:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/405020626269765635)  
+[![![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/405020626269765635)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YuriiLushchyk)  
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CosmicCoder22)  
 
